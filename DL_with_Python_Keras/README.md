@@ -4,7 +4,7 @@
 
 
 
-###Finished:
+### Finished:
 
 * Chapter1 (just reading)
 * Chapter2 Neural Network("Hello World " of deep learning) 
@@ -14,7 +14,7 @@
 * Chapter5 Computer vision
   * 5.1 & 5.2 (convents & data augmentation)
 
-###To do:
+### To do:
 
 * Chapter3: 3.5 Predicting house price
 
