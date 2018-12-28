@@ -11,13 +11,16 @@
 * Chapter3 ( basic knowledge & demo)
   * 3.4 binary classification(dataset: IMDB)
   * 3.5 a multi-class classification(dataset: Reuters)
+  * 3.5 Predicting house price
+
 * Chapter5 Computer vision
   * 5.1 & 5.2 (convents & data augmentation)
+  * 5.3 Using a pre-trained convnet
 
-### To do:
+### To-Do List:
 
-* Chapter3: 3.5 Predicting house price
-
+* Chapter 5.4 Visualizing what convnets learn
+ 
 
 
 # What is the Keras?
