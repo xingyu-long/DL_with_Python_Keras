@@ -3,24 +3,24 @@
 > Reference Book : [Deep Learning  with Python](https://forums.manning.com/forums/deep-learning-with-python)
 
 
+## Overall progress
+| Chapter   | progress|
+| -----  | -----:   |
+| 1: What is DL?        | ######### 100%      |
+| 2: the mathematical blocks of neural networks        | ######### 100%      |
+| 3: Getting started with neural networks       | ######### 100%      |
+| 4: Fundamentals of ML      | ######### 100%      |
+| 5: Deep learning for Computer vision        |######## 90%      |
+| 6: Deep learning for text and sequences        |  0%      |
+| 7: Advanced deep learning best practices       |  0%      |
+| 8: Generative deep learning       |  0%      |
+| 9: Conclusion       |  0%      |
 
-### Finished:
 
-* Chapter1 (just reading)
-* Chapter2 Neural Network("Hello World " of deep learning) 
-* Chapter3 ( basic knowledge & demo)
-  * 3.4 binary classification(dataset: IMDB)
-  * 3.5 a multi-class classification(dataset: Reuters)
-  * 3.5 Predicting house price
+### To-Do:
 
-* Chapter5 Computer vision
-  * 5.1 & 5.2 (convents & data augmentation)
-  * 5.3 Using a pre-trained convnet
+* Chapter 5.4.2 Visualizing convnet filters
 
-### To-Do List:
-
-* Chapter 5.4 Visualizing what convnets learn
- 
 
 
 # What is the Keras?
