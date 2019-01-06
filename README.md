@@ -11,7 +11,7 @@
 | 3: Getting started with neural networks       | ######### 100%      |
 | 4: Fundamentals of ML      | ######### 100%      |
 | 5: Deep learning for Computer vision        |######### 100%      |
-| 6: Deep learning for text and sequences        |  0%      |
+| 6: Deep learning for text and sequences        |  #10%      |
 | 7: Advanced deep learning best practices       |  0%      |
 | 8: Generative deep learning       |  0%      |
 | 9: Conclusion       |  0%      |
@@ -19,7 +19,7 @@
 
 ### To-Do:
 
-* Chapter 6 DL for text and sequences
+* Chapter 6.1.2 Using word embeddings
 
 
 
