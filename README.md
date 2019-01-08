@@ -14,7 +14,7 @@
 | 6: Deep learning for text and sequences        |  #10%      |
 | 7: Advanced deep learning best practices       |  0%      |
 | 8: Generative deep learning       |  0%      |
-| 9: Conclusion       |  0%      |
+| 9: Conclusion       |  ##########100%      |
 
 
 ### To-Do:
